@@ -344,7 +344,7 @@ class ProcessBuilder {
         // Java Arguments
         if(process.platform === 'darwin'){
             args.push('-Xdock:name=HeliosLauncher')
-            args.push('-Xdock:icon=' + path.join(__dirname, '..', 'images', 'minecraft.icns'))
+            args.push('-Xdock:icon=' + path.join(__dirname, '..', 'images', 'SealCircle'))
         }
         args.push('-Xmx' + ConfigManager.getMaxRAM())
         args.push('-Xms' + ConfigManager.getMinRAM())
@@ -382,7 +382,7 @@ class ProcessBuilder {
         // Java Arguments
         if(process.platform === 'darwin'){
             args.push('-Xdock:name=HeliosLauncher')
-            args.push('-Xdock:icon=' + path.join(__dirname, '..', 'images', 'minecraft.icns'))
+            args.push('-Xdock:icon=' + path.join(__dirname, '..', 'images', 'SealCircle'))
         }
         args.push('-Xmx' + ConfigManager.getMaxRAM())
         args.push('-Xms' + ConfigManager.getMinRAM())
