@@ -430,7 +430,7 @@
             "description": "Main testing server. Experimental changes are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com:4444",
+            "address": "TomyCraft.minese.com",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Test Server",
@@ -839,16 +839,16 @@
             ]
         },
         {
-            "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
+            "id": "TomyCraft.minese.com",
+            "name": "TomyCraft.minese.com",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "4.2.1",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "TomyCraft.minese.com",
             "minecraftVersion": "1.12.2",
             "discord": {
-                "shortId": "1.12.2 Test Server",
-                "largeImageText": "WesterosCraft 1.12.2 Test Server",
+                "shortId": "TomyCraft.minese.com",
+                "largeImageText": "TomyCraft.minese.com",
                 "largeImageKey": "server-test"
             },
             "mainServer": false,
@@ -881,7 +881,7 @@
                             "artifact": {
                                 "size": 247787,
                                 "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
+                                "url": ""
                             }
                         },
                         {
@@ -1270,12 +1270,12 @@
             ]
         },
         {
-            "id": "WesterosCraftTest-1.13.2",
-            "name": "WesterosCraft 1.13.2 Test Server",
+            "id": "TomyCraft.minese.com",
+            "name": "TomyCraft.minese.com",
             "description": "Tests for our version change to 1.13.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "5.0.0",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "TomyCraft.minese.com",
             "minecraftVersion": "1.13.2",
             "discord": {
                 "shortId": "1.13.2 Test Server",
