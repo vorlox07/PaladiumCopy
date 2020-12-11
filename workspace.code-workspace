@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "..\\Nebula"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\saves"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\versions"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\assets"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\config"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\libraries"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\logs"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\mods"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\.launchmycraft\\launchers\\launcher244595\\resourcepacks"
+		}
+	],
+	"settings": {}
+}
